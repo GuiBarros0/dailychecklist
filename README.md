@@ -5,7 +5,7 @@ A plataforma DailyChecklist foi pensada para ser uma solução prática e intuit
 
 O DailyChecklist é um projeto que visa ajudar as pessoas a serem mais organizadas e produtivas em suas rotinas diárias, e estamos animados em apresentar os resultados finais em breve.
 
-
+ 
 
 
 
